@@ -14,3 +14,14 @@ int main(){
         sum =sum+a[i];
     }
 }
+
+// how to take input in the arrays
+int main(){
+    int n;
+    cin>>n;
+    a[n];
+    for(int i=0;i<n;i++){
+        cin>>a[i];
+        
+    }
+}

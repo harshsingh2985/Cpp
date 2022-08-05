@@ -27,6 +27,7 @@ int main(){
         if(frequecny[i]!=0){
             cout<<i<<"->"<<frequecny[i]<<endl;
 
+
         }
     }
 }
